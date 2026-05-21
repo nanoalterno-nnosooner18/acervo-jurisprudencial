@@ -1,0 +1,6 @@
+*_v2_*.html
+*_v2_*.docx
+*_v2_*.xlsx
+.DS_Store
+__pycache__/
+*.pyc
